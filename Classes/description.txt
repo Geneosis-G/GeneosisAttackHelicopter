@@ -1,0 +1,56 @@
+The ultimate vehicle of goat weaponry!
+
+Never fear your enemies again with the Attack Helicopter! Designed to fight any kind of threat, from the fastest (minigun) to the biggest (rocket launcher), you can also use it to take your friends on a trip with its large back storage area ;)
+
+[b]Any question or problem to use this mod? [url=http://steamcommunity.com/sharedfiles/filedetails/?id=314929396]Click here to read the FAQ.[/url][/b]
+
+[b]FEATURES[/b]
+- Attack Helicopter: You have an Attack Helicopter ready to use.
+
+[b]KEYBOARD CONTROLS[/b]
+- [b][R]:[/b] Press near a Heli to enter it.
+- [b][1]:[/b] Press when ragdolled to send an emergency call.
+[h1]Driving Heli[/h1]
+- [b][Space]:[/b] Move up.
+- [b][RagdollKey]:[/b] Move down.
+- [b][LeftCLick]:[/b] Hold to use Minigun.
+- [b][RightClick]:[/b] Hold to use Missiles.
+
+[b]GAMEPAD CONTROLS[/b]
+- [b][Y]:[/b] Press near a Heli to enter it.
+- [b][LB]:[/b] Press when ragdolled to send an emergency call.
+[h1]Driving Heli[/h1]
+- [b][A]:[/b] Move up.
+- [b][X]:[/b] Move down.
+- [b][RT]:[/b] Hold to use Minigun.
+- [b][LT]:[/b] Hold to use Missiles.
+
+[b]CHARACTERISTICS[/b]
+- Any player can enter a Heli if he is close enough to it.
+- The first player to enter will be the driver, the second will be a passengers.
+- The back storage area can be used to transport any number of passengers if they stand still.
+- When driving, the Heli will automatically align with your mouse movement.
+- When nobody is driving a Heli, it will fall down.
+- The Heli have unlimited ammo.
+- Missiles will aim at the pointer and automatically explode after 10 seconds if they hit nothing.
+- The Heli weapons are very effective against MMO enemies and GoatZ zombies.
+- The emergency call will teleport your Heli back to you.
+
+[b]EASTER EGGS[/b]
+- [spoiler]The Heli can be used as a submarine :p Just make sure to hold your breath![/spoiler]
+
+[b]KNOWN BUGS[/b]
+- The Heli physics and collisions are weird.
+- You can hardly hear the Heli sounds while driving it.
+- The Minigun do not fire exactly in the direction of the pointer.
+- Missiles can end up spinning in circle if they miss their target. Move around to fix.
+- Weird things will happen to your goat if you exit the Heli in special areas (underwater, near lava, etc...).
+- GoatZ zombies killed with the Heli doesn't count for quests: yes.
+
+[b]DEV NOTES[/b]
+[quote=About this mod]Yet another great idea posted on the mod request thread :) I thought this one would be quite easy to set up after what I had done for the UFO, anyway it was still harder that I thought it would be :p
+First of all the Heli itself is actually a giant Longboard... With the helicopter model sticked on top of it XD I had some troubles to get the collisions working correctly (so that the different parts of the Heli won't collide with each other), but I found a good enough solution to have something drivable without passing through too many solid objects XD
+When the main body was done, I started tweaking the flight abilities, after making a copy of the ones I used for the UFO. I didn't change many things, only added a smooth slow down when you stop moving, the alignment with the camera, and the angle to the Heli model when you move front/back/left/right. I also reused some code from the Bumper Cars to make the driver/passenger visible and placed it correctly on the Heli seat ;)
+Then came the weapons :D First the minigun, which is once again the one you can find in GoatZ. Except it's shooting twice as fast and does twice the damages of the original ^^ I hade to use some trick to give it some fake goat owner in order to avoid rewriting all the code of the gun, but it ended up working really well :)
+Finally I added the rocket launchers. I had in mind some Saints Row helicopter when I made this one so I tried to copy the behaviour of one of them which was able to send missiles that will follow your cursor. Fortunately I could reuse part of the code I made for the auto-aiming balls of the APM, and part of the laser swords code from Hero Goat in order to make efficient missiles. Also the Waste of Space DLC added some cool water rockets that were fitting perfectly as a missile when retextured :p 
+[/quote]
